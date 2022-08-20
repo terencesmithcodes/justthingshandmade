@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Bumble Bee - Tier Tray",
+    "imageUrl": "https://i.ibb.co/WFJW5F6/35402282-5-C6-D-44-C0-B030-017-E49-A02373.jpg",
+    "price": 10
+  },
+  {
+    "id": 2,
+    "name": "3D Rolled Flower Heart",
+    "imageUrl": "https://i.ibb.co/Yh5JN1r/image1-1.jpg",
+    "price": 35
+  },
+  {
+    "id": 3,
+    "name": "Dark Pink Water Bottle",
+    "imageUrl": "https://i.ibb.co/MMG1pjt/Dark-Pink-summer-bottle.png",
+    "price": 15
+  },
+  {
+    "id": 4,
+    "name": "Leather Customizable Key Chain",
+    "imageUrl": "https://i.ibb.co/ZNVnfqK/A6-F12-B59-58-BF-4-BA7-BDFB-AAE9-E8-C232-BD.jpg",
+    "price": 16
+  },
+  {
+    "id": 5,
+    "name": "Customizable Condiment Bottle",
+    "imageUrl": "https://i.ibb.co/dpNvFzK/IMG-6515-1.jpg",
+    "price": 16
+  },
+  {
+    "id": 6,
+    "name": "Customizable Grill Mat",
+    "imageUrl": "https://i.ibb.co/vwz3YR4/image2.jpg",
+    "price": 14
+  },
+  {
+    "id": 7,
+    "name": "Acrylic Customizable Key Chain",
+    "imageUrl": "https://i.ibb.co/PtGNPBN/IMG-6256.jpg",
+    "price": 10
+  },
+  {
+    "id": 8,
+    "name": "3D Rolled Flower Shadow Box",
+    "imageUrl": "https://i.ibb.co/5YYjfwK/IMG-6493.jpg",
+    "price": 35
+  }
+]
