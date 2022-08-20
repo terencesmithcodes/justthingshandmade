@@ -1,6 +1,6 @@
 import "./product-card.styles.scss";
 
-// import Button from "../button/button.component";
+import Button from "../button/button.component";
 
 const ProductCard = ({ product }) => {
   const { name, price, imageUrl } = product;
@@ -11,9 +11,9 @@ const ProductCard = ({ product }) => {
         <span className="name">{name}</span>
         <span className="price">{price}</span>
       </div>
-      {/* <Button buttonType="inverted">Add to card</Button> */}
+      <Button buttonType="inverted">Add to cart</Button>
 
-      <button
+      {/* <button
         className="buy-button snipcart-add-item"
         data-item-id={product.id}
         data-item-image={product.image}
@@ -21,7 +21,7 @@ const ProductCard = ({ product }) => {
         data-item-price={product.price}
       >
         Add to Cart
-      </button>
+      </button> */}
     </div>
   );
 };
